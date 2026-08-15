@@ -12,7 +12,7 @@ a. Tabletop games/ Board games
 b. Video games
 c. Social analysis with wardrobe society built with RL
 
-Currently all survey results will be stored in ```./Background Survey```, which may be changed with project's progression.
+Currently all survey results will be stored in ```./Background Survey```, which may be changed with project's progression. (please come up with a common naming or structure convention I'm bad at this lol)
 
 # Schedule
 ...
